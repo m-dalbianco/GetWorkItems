@@ -1,0 +1,17 @@
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.csprojAssemblyReference.cache
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.csproj.CoreCompileInputs.cache
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.RazorAssemblyInfo.cache
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.RazorAssemblyInfo.cs
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.AssemblyInfoInputs.cache
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.AssemblyInfo.cs
+C:\Projetos\GetWorkItems\GetWorkItems.API\bin\Debug\netcoreapp2.1\GetWorkItems.API.deps.json
+C:\Projetos\GetWorkItems\GetWorkItems.API\bin\Debug\netcoreapp2.1\GetWorkItems.API.runtimeconfig.json
+C:\Projetos\GetWorkItems\GetWorkItems.API\bin\Debug\netcoreapp2.1\GetWorkItems.API.runtimeconfig.dev.json
+C:\Projetos\GetWorkItems\GetWorkItems.API\bin\Debug\netcoreapp2.1\GetWorkItems.API.dll
+C:\Projetos\GetWorkItems\GetWorkItems.API\bin\Debug\netcoreapp2.1\GetWorkItems.API.pdb
+C:\Projetos\GetWorkItems\GetWorkItems.API\bin\Debug\netcoreapp2.1\GetWorkItems.Model.dll
+C:\Projetos\GetWorkItems\GetWorkItems.API\bin\Debug\netcoreapp2.1\GetWorkItems.Model.pdb
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.RazorTargetAssemblyInfo.cache
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.csproj.CopyComplete
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.dll
+C:\Projetos\GetWorkItems\GetWorkItems.API\obj\Debug\netcoreapp2.1\GetWorkItems.API.pdb

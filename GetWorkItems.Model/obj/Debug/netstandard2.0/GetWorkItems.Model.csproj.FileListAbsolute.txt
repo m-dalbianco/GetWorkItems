@@ -1,0 +1,11 @@
+C:\Projetos\GetWorkItems\GetWorkItems.Model\bin\Debug\netstandard2.0\GetWorkItems.Model.deps.json
+C:\Projetos\GetWorkItems\GetWorkItems.Model\bin\Debug\netstandard2.0\GetWorkItems.Model.dll
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.csprojAssemblyReference.cache
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.csproj.CoreCompileInputs.cache
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.AssemblyInfoInputs.cache
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.AssemblyInfo.cs
+C:\Projetos\GetWorkItems\GetWorkItems.Model\bin\Debug\netstandard2.0\GetWorkItems.Model.pdb
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.dll
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.pdb
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.Properties.Resources.resources
+C:\Projetos\GetWorkItems\GetWorkItems.Model\obj\Debug\netstandard2.0\GetWorkItems.Model.csproj.GenerateResource.cache

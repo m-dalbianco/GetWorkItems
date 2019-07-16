@@ -1,0 +1,14 @@
+C:\Projetos\GetWorkItems\GetWorkItems\bin\Debug\netcoreapp2.1\GetWorkItems.deps.json
+C:\Projetos\GetWorkItems\GetWorkItems\bin\Debug\netcoreapp2.1\GetWorkItems.runtimeconfig.json
+C:\Projetos\GetWorkItems\GetWorkItems\bin\Debug\netcoreapp2.1\GetWorkItems.runtimeconfig.dev.json
+C:\Projetos\GetWorkItems\GetWorkItems\bin\Debug\netcoreapp2.1\GetWorkItems.dll
+C:\Projetos\GetWorkItems\GetWorkItems\obj\Debug\netcoreapp2.1\GetWorkItems.csprojAssemblyReference.cache
+C:\Projetos\GetWorkItems\GetWorkItems\obj\Debug\netcoreapp2.1\GetWorkItems.csproj.CoreCompileInputs.cache
+C:\Projetos\GetWorkItems\GetWorkItems\obj\Debug\netcoreapp2.1\GetWorkItems.AssemblyInfoInputs.cache
+C:\Projetos\GetWorkItems\GetWorkItems\obj\Debug\netcoreapp2.1\GetWorkItems.AssemblyInfo.cs
+C:\Projetos\GetWorkItems\GetWorkItems\bin\Debug\netcoreapp2.1\GetWorkItems.pdb
+C:\Projetos\GetWorkItems\GetWorkItems\obj\Debug\netcoreapp2.1\GetWorkItems.dll
+C:\Projetos\GetWorkItems\GetWorkItems\obj\Debug\netcoreapp2.1\GetWorkItems.pdb
+C:\Projetos\GetWorkItems\GetWorkItems\bin\Debug\netcoreapp2.1\GetWorkItems.Model.dll
+C:\Projetos\GetWorkItems\GetWorkItems\bin\Debug\netcoreapp2.1\GetWorkItems.Model.pdb
+C:\Projetos\GetWorkItems\GetWorkItems\obj\Debug\netcoreapp2.1\GetWorkItems.csproj.CopyComplete
